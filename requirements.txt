@@ -1,0 +1,8 @@
+streamlit>=1.27.2
+pandas>=2.0.0
+fpdf>=1.7.2
+
+# Optional AI features (comment these out if not using LLMs)
+langchain>=0.1.6
+langchain-groq>=0.0.4
+openai>=1.0.0
